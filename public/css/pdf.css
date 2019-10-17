@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 14, 2019, 3:48:03 PM
+    Author     : ssem
+*/
+
+@page {      
+    margin: 20px;;
+}
+html, body {
+  font-family: "DejaVu Serif";
+}
+body{                
+    border: 1px solid #007fff;
+}
+.header{
+    padding: 10px;
+    border-bottom: 1px solid #007fff;
+}
+.content{
+    padding: 20px;    
+}
+.footer{
+    padding: 20px;    
+}
+.header table{
+    width: 100%;
+}
+.header table .header-logo{
+    width: 15%;
+    text-align: center;
+}
+.header table .header-name{
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.5em;
+}
+.header table .header-info{
+    width: 25%;
+}
+
+.content td,
+.content th{    
+    /*border-left: 1px solid #f4f4f4!important;*/
+    border: 1px solid lightsteelblue!important;
+}
+.text-note{
+    font-size: 0.7em;
+}
+.color-light-blue{
+    color: #337ab7;
+}
