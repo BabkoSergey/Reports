@@ -28,6 +28,6 @@
         "pusher-js": "^5.0.0",
         "vue-infinite-loading": "^2.4.4",
         "vue-resource": "^1.5.1",
-        "yarn": "^1.17.3"
+        "yarn": "^1.22.0"
     }
 }
